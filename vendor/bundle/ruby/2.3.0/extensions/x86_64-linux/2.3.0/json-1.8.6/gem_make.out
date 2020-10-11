@@ -1,5 +1,5 @@
 current directory: /home/audest/bot-messenger/vendor/bundle/ruby/2.3.0/gems/json-1.8.6/ext/json/ext/generator
-/usr/bin/ruby2.3 -r ./siteconf20201011-8257-1qka2tm.rb extconf.rb
+/usr/bin/ruby2.3 -r ./siteconf20201011-9214-p0cywo.rb extconf.rb
 mkmf.rb can't find header files for ruby at /usr/lib/ruby/include/ruby.h
 
 extconf failed, exit code 1
